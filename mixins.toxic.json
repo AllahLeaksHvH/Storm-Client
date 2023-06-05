@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.endr.storm.mixin.mixins",
+  "refmap": "mixins.storm.refmap.json",
+  "mixins": [
+    "MixinBlockLiquid",
+    "MixinEntityLivingBase",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiNewChat",
+    "MixinGuiPlayerTabOverlay",
+    "MixinGuiScreen",
+    "MixinItemRenderer",
+    "MixinMinecraft",
+    "MixinModelPlayer",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderEnderCrystal",
+    "MixinRenderLivingBase",
+    "MixinWorld"
+  ]
+}

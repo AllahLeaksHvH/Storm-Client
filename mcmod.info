@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "storm",
+    "name": "storm",
+    "description": "1.12.2 client made for crystal pvp",
+    "version": "0.3",
+    "mcversion": "1.12.2",
+    "logoFile": "storm.png",
+    "url": "https://discordapp.com/invite/WcAx3ps",
+    "updateUrl": "",
+    "authorList": [
+      "bikky"
+      "teej"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
